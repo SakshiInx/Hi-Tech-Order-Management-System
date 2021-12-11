@@ -1,0 +1,10 @@
+C:\Users\madan\source\repos\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Users\madan\source\repos\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Users\madan\source\repos\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Users\madan\source\repos\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\Users\madan\source\repos\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\madan\source\repos\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Users\madan\source\repos\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\madan\source\repos\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Users\madan\source\repos\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\Users\madan\source\repos\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.Form1.resources
